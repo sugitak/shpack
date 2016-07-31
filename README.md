@@ -1,0 +1,4 @@
+# shpack
+
+a shellscript manager
+
